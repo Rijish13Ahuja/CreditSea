@@ -177,11 +177,5 @@ To deploy the backend, use a cloud platform like **Heroku, Vercel, or AWS**.
 
 ---
 
-## 👨‍💻 Contributors
-- [Your Name](https://github.com/your-github) - Developer
 
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
 
